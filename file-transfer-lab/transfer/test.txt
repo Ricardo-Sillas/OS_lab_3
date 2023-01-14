@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+This is a test
+=======
+This is a test to see if the file was able to transfer.
+>>>>>>> f70ba5e00df069aecb57563dbc3af2d117d7add3
